@@ -1,10 +1,18 @@
 import React from "react";
+import "../styles/Navbar.css";
 
 const Navbar = () => {
   return (
-    <div>
-      <h1>Navbard</h1>
-    </div>
+    <header>
+      <nav>
+        <h1>Jan Machacek</h1>
+        <ul>
+          <li>ABOUT</li>
+          <li>PROJECTS</li>
+          <li>CONTACT</li>
+        </ul>
+      </nav>
+    </header>
   );
 };
 
