@@ -16,6 +16,8 @@ nav {
 
 nav h1 {
   cursor: pointer;
+  font-family: "Gloria Hallelujah";
+  font-size: 3em;
 }
 
 nav h1:hover {

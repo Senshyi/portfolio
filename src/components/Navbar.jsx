@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <header>
       <nav>
-        <h1>Jan Machacek</h1>
+        <h1>JM</h1>
         <ul>
           <li>ABOUT</li>
           <li>PROJECTS</li>
