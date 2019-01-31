@@ -7,48 +7,54 @@ const Intro = () => {
   return (
     <section className="intro">
       <div className="intro-class">
-        <span>
+        <span className="code">
           <i className="fas fa-code" />
         </span>
         <h1>Jan Machacek</h1>
         <p>Full stack Developer</p>
       </div>
       <div className="icons">
-        <div>
-          <i class="fab fa-html5" />
+        <div className="icon">
+          <i className="fab fa-html5" />
           <span>HTML5</span>
         </div>
-        <div>
-          <i class="fab fa-js" />
+        <div className="icon">
+          <i className="fab fa-js" />
           <span>JavaScript</span>
         </div>
-        <div>
-          <i class="fab fa-css3-alt" />
+        <div className="icon">
+          <i className="fab fa-css3-alt" />
           <span>CSS</span>
         </div>
-        <div>
-          <i class="fas fa-database" />
+        <div className="icon">
+          <i className="fas fa-database" />
           <span>PostgreSQL</span>
         </div>
-        <div>
-          <i class="fas fa-database" />
+        <div className="icon">
+          <i className="fas fa-database" />
           <span>MongoDB</span>
         </div>
-        <div>
-          <i class="fas fa-server" />
+        <div className="icon">
+          <i className="fas fa-server" />
           <span>Express</span>
         </div>
-        <div>
+        <div className="icon">
           <img src={cSharp} alt="" />
           <span>.NET</span>
         </div>
-        <div>
+        <div className="icon">
           <img src={cpp} alt="" />
           <span>C++</span>
         </div>
-
-        <i class="fab fa-node" />
-        <i class="fab fa-react" />
+        <div />
+        <div className="icon">
+          <i className="fab fa-node" />
+          <span>Node.js</span>
+        </div>
+        <div className="icon">
+          <i className="fab fa-react" />
+          <span>React</span>
+        </div>
       </div>
     </section>
   );
