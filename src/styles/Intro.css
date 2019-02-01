@@ -12,13 +12,16 @@
 }
 
 .intro-class {
-  color: #00af83;
   margin-top: 6rem;
   width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   font-size: 2em;
+}
+.intro-class i,
+h1 {
+  color: #00af83;
 }
 
 .icons {
