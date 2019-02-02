@@ -1,9 +1,13 @@
 import React from "react";
+import "../styles/Projects.css";
 
 const Projects = () => {
   return (
-    <section>
-      <h1>Projects</h1>
+    <section className="projects">
+      <div className="project-head">
+        <h1>Projects</h1>
+        <div className="underline" />
+      </div>
     </section>
   );
 };

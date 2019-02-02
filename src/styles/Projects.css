@@ -1,0 +1,13 @@
+.projects {
+  /* height: 100vh; */
+  width: 100%;
+  background-color: rgb(233, 233, 233);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.project-head {
+  margin-top: 3%;
+  font-size: 2.5rem;
+}
