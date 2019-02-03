@@ -1,38 +1,38 @@
 [
   {
     "name": "NC-news",
-    "tech": [],
-    "description": "",
-    "img": ""
+    "tech": ["JavaScript", "react", "express", "mongodb", "mongoose"],
+    "description": "Full-stack web application built for serving articles. Articles can be voted on or discussed also able to vote on comments.",
+    "img": "nc-news.png"
   },
   {
     "name": "WhatevAR",
-    "tech": [],
-    "description": "",
-    "img": ""
+    "tech": ["JavaScript", "Viro", "AWS", "Serverless framework"],
+    "description": "The final project of the Northocers bootcamp. In a team of four, we have created AR application that present user with surrounded establishments in an AR environment.",
+    "img": "whatevar.png"
   },
   {
     "name": "Podcast-Player",
-    "tech": [],
-    "description": "",
-    "img": ""
+    "tech": ["Javascript", "React"],
+    "description": "Front-end application with a custom player built as a 12 hour that servers user a list of podcast episodes",
+    "img": "podcast.png"
   },
   {
     "name": "Cubethon",
-    "tech": [],
-    "description": "",
-    "img": ""
+    "tech": ["C#", "Unity"],
+    "description": "A simple game made in Unity with basic functionality that will be continuously updated",
+    "img": "cubethon.png"
   },
   {
     "name": "Snek",
-    "tech": [],
-    "description": "",
-    "img": ""
+    "tech": ["C++", "Chili framework"],
+    "description": "Snake game made in Chili framework with C++",
+    "img": "snek.png"
   },
   {
     "name": "Hacker News Clone",
-    "tech": [],
-    "description": "",
-    "img": ""
+    "tech": ["Javascript", "GraphQL", "React", "Apollo", "Yoga", "Prisma"],
+    "description": "Full-stack web application built as a practice with GraphQL.",
+    "img": "hc-news-clone.png"
   }
 ]
