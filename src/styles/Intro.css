@@ -54,3 +54,9 @@
   width: 45px;
   height: 45px;
 }
+
+@media (max-width: 640px) {
+  .icons {
+    font-size: 10px;
+  }
+}

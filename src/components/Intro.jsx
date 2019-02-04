@@ -40,7 +40,7 @@ const Intro = () => {
         </div>
         <div className="icon">
           <img src={cSharp} alt="" />
-          <span>.NET</span>
+          <span>C#</span>
         </div>
         <div className="icon">
           <img src={cpp} alt="" />

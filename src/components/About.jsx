@@ -16,7 +16,7 @@ const About = () => {
         <p>
           I am highly motivated, self-driven, hard-working, learn new
           technologies, eager to be a part of the team and become a valuable
-          employee of the company. When I'm not not programming, you can find me
+          employee of the company. When I'm not programming, you can find me
           playing video games or learning and reading more about software
           development/engineering.
         </p>
