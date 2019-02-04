@@ -11,6 +11,9 @@
   margin-top: 3%;
   font-size: 2.5rem;
 }
+.projects-head h1 {
+  margin-bottom: 20px;
+}
 
 .projects-container {
   display: flex;
