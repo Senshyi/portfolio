@@ -72,36 +72,37 @@ $color_grey_dark: #a2a2a2;
       color: #00af83;
       font-size: 1.1rem;
     }
-    // .author:before {
-    //   font-family: FontAwesome;
-    //   margin-right: 10px;
-    //   content: "\f007";
-    // }
+    .author:before {
+      font-family: FontAwesome;
+      margin-right: 10px;
+      content: "\f007";
+    }
 
-    // .date:before {
-    //   font-family: FontAwesome;
-    //   margin-right: 10px;
-    //   content: "\f133";
-    // }
+    .date:before {
+      font-family: FontAwesome;
+      margin-right: 10px;
+      content: "\f133";
+    }
 
-    // .tags {
-    //   ul:before {
-    //     font-family: FontAwesome;
-    //     content: "\f02b";
-    //     margin-right: 10px;
-    //   }
-    //   li {
-    //     margin-right: 2px;
-    //     &:first-child {
-    //       margin-left: -4px;
-    //     }
-    //   }
-    // }
+    .tags {
+      ul:before {
+        font-family: FontAwesome;
+        content: "\f02b";
+        margin-right: 10px;
+      }
+      li {
+        margin-right: 2px;
+        &:first-child {
+          margin-left: -4px;
+        }
+      }
+    }
   }
   .description {
     padding: 1rem;
     background: $color_white;
     position: relative;
+    z-index: 1;
     p {
       height: 50%;
     }
