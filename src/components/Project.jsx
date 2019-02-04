@@ -21,6 +21,10 @@ const Project = props => {
       <div className="description">
         <h1>{project.name}</h1>
         <p>{project.description}</p>
+        <div className="read-more">
+          <a href="#">github</a>
+          <a href="#">demo</a>
+        </div>
       </div>
     </div>
   );
