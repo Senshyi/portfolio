@@ -13,8 +13,8 @@ const Project = props => {
             <i className="fas fa-code" />
             Tech used
           </li>
-          {project.tech.map(tech => (
-            <li>{tech}</li>
+          {project.tech.map((tech, i) => (
+            <li key={i}>{tech}</li>
           ))}
         </ul>
       </div>
@@ -22,8 +22,20 @@ const Project = props => {
         <h1>{project.name}</h1>
         <p>{project.description}</p>
         <div className="read-more">
-          <a href="#">github</a>
-          <a href="#">demo</a>
+          {project.github.length !== 0 ? (
+            <a href={project.github} target="_blank" rel="noopener noreferrer">
+              github
+            </a>
+          ) : (
+            <span> </span>
+          )}
+          {project.demo.length !== 0 ? (
+            <a href={project.demo} target="_blank" rel="noopener noreferrer">
+              demo
+            </a>
+          ) : (
+            <span />
+          )}
         </div>
       </div>
     </div>
