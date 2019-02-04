@@ -6,7 +6,7 @@ const Navbar = () => {
     <header>
       <nav>
         <h1>JM</h1>
-        <ul>
+        <ul className="navbar-list">
           <li>ABOUT</li>
           <li>PROJECTS</li>
           <li>CONTACT</li>

@@ -24,18 +24,18 @@ nav h1:hover {
   color: #00af83;
 }
 
-ul {
+.navbar-list {
   align-self: center;
   list-style-type: none;
   display: flex;
   margin-left: auto;
 }
 
-li {
+.navbar-list li {
   margin: 5px;
   cursor: pointer;
 }
 
-li:hover {
+.navbar-list li:hover {
   color: #00af83;
 }
