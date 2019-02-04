@@ -9,9 +9,13 @@ const Project = props => {
       <div className="meta">
         <div className="photo" style={{ backgroundImage: `url(${img})` }} />
         <ul className="details">
-          <li className="tech">tech</li>
-          <li>test</li>
-          <li>test2</li>
+          <li className="tech">
+            <i className="fas fa-code" />
+            Tech used
+          </li>
+          {project.tech.map(tech => (
+            <li>{tech}</li>
+          ))}
         </ul>
       </div>
       <div className="description">
