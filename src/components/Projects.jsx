@@ -5,7 +5,7 @@ import projects from "../projects/projects.json";
 
 const Projects = () => {
   return (
-    <section className="projects">
+    <section id="Projects" className="projects">
       <div className="projects-head">
         <h1>Projects</h1>
         <div className="underline" />
