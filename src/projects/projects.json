@@ -3,36 +3,48 @@
     "name": "NC-news",
     "tech": ["JavaScript", "react", "express", "mongodb", "mongoose"],
     "description": "Full-stack web application built for serving articles. Articles can be voted on or discussed also able to vote on comments.",
-    "img": "nc-news.png"
+    "img": "nc-news.png",
+    "github": "https://github.com/JanMach97/nc-news-FE",
+    "demo": "https://jan-nc-news.netlify.com/"
   },
   {
     "name": "WhatevAR",
     "tech": ["JavaScript", "Viro", "AWS", "Serverless framework"],
     "description": "The final project of the Northocers bootcamp. In a team of four, we have created AR application that present user with surrounded establishments in an AR environment.",
-    "img": "whatevar.png"
+    "img": "whatevar.png",
+    "github": "",
+    "demo": "https://youtu.be/gaGXrzRTJzM"
   },
   {
     "name": "Podcast-Player",
     "tech": ["Javascript", "React"],
     "description": "Front-end application with a custom player built as a 12 hour that servers user a list of podcast episodes",
-    "img": "podcast.png"
+    "img": "podcast.png",
+    "github": "https://github.com/JanMach97/podcast-player",
+    "demo": "https://objective-kowalevski-2de920.netlify.com/"
   },
   {
     "name": "Cubethon",
     "tech": ["C#", "Unity"],
     "description": "A simple game made in Unity with basic functionality that will be continuously updated",
-    "img": "cubethon.png"
+    "img": "cubethon.png",
+    "github": "https://github.com/JanMach97/SimpleUnityGame",
+    "demo": ""
   },
   {
     "name": "Snek",
     "tech": ["C++", "Chili framework"],
     "description": "Snake game made in Chili framework with C++",
-    "img": "snek.png"
+    "img": "snek.png",
+    "github": "https://github.com/JanMach97/snek",
+    "demo": ""
   },
   {
     "name": "Hacker News Clone",
     "tech": ["Javascript", "GraphQL", "React", "Apollo", "Yoga", "Prisma"],
     "description": "Full-stack web application built as a practice with GraphQL.",
-    "img": "hc-news-clone.png"
+    "img": "hc-news-clone.png",
+    "github": "https://github.com/JanMach97/GraphQL_pg",
+    "demo": ""
   }
 ]
