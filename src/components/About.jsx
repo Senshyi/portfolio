@@ -10,15 +10,14 @@ const About = () => {
       </div>
       <div className="body">
         <p>
-          I graduated in 2018 from the Northcoder full-time coding bootcamp in
+          I graduated in 2018 from the Northcoders full-time coding bootcamp in
           Manchester.
         </p>
         <p>
-          I am highly motivated, self-driven, hard-working, learn new
-          technologies, eager to be a part of the team and become a valuable
-          employee of the company. When I'm not programming, you can find me
-          playing video games or learning and reading more about software
-          development/engineering.
+          I’m a highly motivated, self-driven, hard-working developer with a
+          passion for teamwork and learning new tech. When I'm not programming,
+          you can find me playing video games or learning and reading more about
+          software development/engineering.
         </p>
       </div>
     </section>

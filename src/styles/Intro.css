@@ -24,6 +24,10 @@
   color: #00af83;
 }
 
+.intro-class p {
+  color: white;
+}
+
 .icons {
   display: flex;
   margin: 3% 5% 0 5%;

@@ -11,7 +11,7 @@ const Intro = () => {
           <i className="fas fa-code" />
         </span>
         <h1>Jan Machacek</h1>
-        <p>Full stack Developer</p>
+        <p>Software Developer</p>
       </div>
       <div className="icons">
         <div className="icon">

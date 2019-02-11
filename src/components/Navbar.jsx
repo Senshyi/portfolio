@@ -15,7 +15,7 @@ const Navbar = () => {
               spy={true}
               smooth={true}
               offset={-60}
-              duration={500}
+              duration={700}
             >
               ABOUT
             </Link>
@@ -27,7 +27,7 @@ const Navbar = () => {
               spy={true}
               smooth={true}
               offset={-60}
-              duration={500}
+              duration={700}
             >
               PROJECTS
             </Link>
@@ -39,7 +39,7 @@ const Navbar = () => {
               spy={true}
               smooth={true}
               offset={-60}
-              duration={500}
+              duration={700}
             >
               CONTACT
             </Link>

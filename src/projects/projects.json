@@ -2,7 +2,7 @@
   {
     "name": "NC-news",
     "tech": ["JavaScript", "react", "express", "mongodb", "mongoose"],
-    "description": "Full-stack web application built for serving articles. Articles can be voted on or discussed also able to vote on comments.",
+    "description": "Full-stack web application built for serving articles.  Articles and comments can be posted and voted upon.",
     "img": "nc-news.png",
     "github": "https://github.com/JanMach97/nc-news-FE",
     "demo": "https://jan-nc-news.netlify.com/"
@@ -10,7 +10,7 @@
   {
     "name": "WhatevAR",
     "tech": ["JavaScript", "Viro", "AWS", "Serverless framework"],
-    "description": "The final project of the Northocers bootcamp. In a team of four, we have created AR application that present user with surrounded establishments in an AR environment.",
+    "description": "The final project of the Northocers bootcamp. As a team of four, we created a mobile application that presented a user with an AR representation of surrounding establishments e.g. bars/restaurants.",
     "img": "whatevar.png",
     "github": "",
     "demo": "https://youtu.be/gaGXrzRTJzM"
@@ -18,7 +18,7 @@
   {
     "name": "Podcast-Player",
     "tech": ["Javascript", "React"],
-    "description": "Front-end application with a custom player built as a 12 hour that servers user a list of podcast episodes",
+    "description": " Front-end application with a custom player, serving a user with a list of podcast episodes. Built as a 12-hour coding challenge.",
     "img": "podcast.png",
     "github": "https://github.com/JanMach97/podcast-player",
     "demo": "https://objective-kowalevski-2de920.netlify.com/"
